@@ -24,9 +24,9 @@ html {
 body {
   font-family: "Red Hat Display", sans-serif;
   background-color: var(--paleBlue);
-  /* background-image: url(/images/pattern-background-desktop.svg);
+  background-image: url(/images/pattern-background-desktop.svg);
   background-repeat: no-repeat;
-  background-size: 10%; */
+  background-size: cover;
   margin: 0;
 }
 
