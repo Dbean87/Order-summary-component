@@ -48,7 +48,7 @@ body {
   border-radius: 15px;
   padding: 3rem;
   background-color: var(--white);
-  background-image: url(/images/illustration-hero.svg);
+  background-image: url(https://dbean87.github.io/Order-summary-component/images/illustration-hero.svg);
   background-repeat: no-repeat;
   background-position: center top;
   background-size: 100%;
